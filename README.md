@@ -1,0 +1,2 @@
+# bucin
+Khusus yg bucin
